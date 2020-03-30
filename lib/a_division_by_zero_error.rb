@@ -1,3 +1,6 @@
-42 / 6
+var divide =  42 / 6
 
-42 / 0
+var div = 42 / 0
+
+div
+divide
