@@ -1,6 +1,3 @@
-var divide =  42 / 6
+ divide =  42 / 6
+ div = 42 / 2
 
-var div = 42 / 0
-
-div
-divide
